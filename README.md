@@ -1,6 +1,5 @@
 # Web Archives
-Here i am storing the archives of some notable websites that i find intresting.
-
+I am archiving notable websites that pique my interest.
 
 
 
