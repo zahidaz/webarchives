@@ -3,8 +3,7 @@ I am archiving notable websites that pique my interest.
 
 
 
-====
-
+-----------
 # Informations
 
 ## .WACZ File Format. 
